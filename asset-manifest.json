@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/desafios-frontend/tree/dev-cassioFabiano/static/css/main.310fae0c.css",
+    "main.js": "/desafios-frontend/tree/dev-cassioFabiano/static/js/main.c2e3fb34.js",
+    "static/media/1.png": "/desafios-frontend/tree/dev-cassioFabiano/static/media/1.2136df2721dcf8bdfc79.png",
+    "static/media/3.png": "/desafios-frontend/tree/dev-cassioFabiano/static/media/3.3d6a0f1e0da9881678f5.png",
+    "static/media/2.png": "/desafios-frontend/tree/dev-cassioFabiano/static/media/2.0d92d9d4fb07e055992c.png",
+    "static/media/xbox.png": "/desafios-frontend/tree/dev-cassioFabiano/static/media/xbox.43b77321dba742867841.png",
+    "static/media/4.png": "/desafios-frontend/tree/dev-cassioFabiano/static/media/4.1f62e392dfa58edc5ca2.png",
+    "static/media/controle-xbox.png": "/desafios-frontend/tree/dev-cassioFabiano/static/media/controle-xbox.6e163037d10ab6448fbe.png",
+    "index.html": "/desafios-frontend/tree/dev-cassioFabiano/index.html",
+    "static/media/arrow.svg": "/desafios-frontend/tree/dev-cassioFabiano/static/media/arrow.067eec13289ae249f71afcef8aa337ad.svg",
+    "main.310fae0c.css.map": "/desafios-frontend/tree/dev-cassioFabiano/static/css/main.310fae0c.css.map",
+    "main.c2e3fb34.js.map": "/desafios-frontend/tree/dev-cassioFabiano/static/js/main.c2e3fb34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.310fae0c.css",
+    "static/js/main.c2e3fb34.js"
+  ]
+}
